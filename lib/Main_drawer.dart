@@ -30,7 +30,7 @@ class Main_drawer extends StatelessWidget {
             width: double.infinity,
             alignment: Alignment.centerLeft,
             child: Text(
-              'Cooking Up!',
+              'Cooking Up The best food!',
               style: TextStyle(
                   color: Theme.of(context).primaryColor,
                   fontSize: 30,
